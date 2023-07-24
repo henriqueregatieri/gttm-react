@@ -2,7 +2,6 @@
   "name": "gttm",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://henriqueregatieri.github.io/gttm-react",
   "dependencies": {
     "@chakra-ui/modal": "^1.10.1",
     "@chakra-ui/react": "^1.6.12",
