@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/gttm-react/static/css/main.3e1b7420.chunk.css",
-    "main.js": "/gttm-react/static/js/main.30c4746e.chunk.js",
-    "main.js.map": "/gttm-react/static/js/main.30c4746e.chunk.js.map",
-    "runtime-main.js": "/gttm-react/static/js/runtime-main.5b7d8361.js",
-    "runtime-main.js.map": "/gttm-react/static/js/runtime-main.5b7d8361.js.map",
-    "static/css/2.d00d156c.chunk.css": "/gttm-react/static/css/2.d00d156c.chunk.css",
-    "static/js/2.4c6170da.chunk.js": "/gttm-react/static/js/2.4c6170da.chunk.js",
-    "static/js/2.4c6170da.chunk.js.map": "/gttm-react/static/js/2.4c6170da.chunk.js.map",
-    "static/js/3.814c32ef.chunk.js": "/gttm-react/static/js/3.814c32ef.chunk.js",
-    "static/js/3.814c32ef.chunk.js.map": "/gttm-react/static/js/3.814c32ef.chunk.js.map",
-    "index.html": "/gttm-react/index.html",
-    "static/css/2.d00d156c.chunk.css.map": "/gttm-react/static/css/2.d00d156c.chunk.css.map",
-    "static/css/main.3e1b7420.chunk.css.map": "/gttm-react/static/css/main.3e1b7420.chunk.css.map",
-    "static/js/2.4c6170da.chunk.js.LICENSE.txt": "/gttm-react/static/js/2.4c6170da.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/gttm-react/static/media/bg_redcurtain.5f8bfc25.jpg"
+    "main.css": "/static/css/main.06041eb3.chunk.css",
+    "main.js": "/static/js/main.30c4746e.chunk.js",
+    "main.js.map": "/static/js/main.30c4746e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6e3d7bdc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6e3d7bdc.js.map",
+    "static/css/2.d00d156c.chunk.css": "/static/css/2.d00d156c.chunk.css",
+    "static/js/2.913d5f2e.chunk.js": "/static/js/2.913d5f2e.chunk.js",
+    "static/js/2.913d5f2e.chunk.js.map": "/static/js/2.913d5f2e.chunk.js.map",
+    "static/js/3.814c32ef.chunk.js": "/static/js/3.814c32ef.chunk.js",
+    "static/js/3.814c32ef.chunk.js.map": "/static/js/3.814c32ef.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.d00d156c.chunk.css.map": "/static/css/2.d00d156c.chunk.css.map",
+    "static/css/main.06041eb3.chunk.css.map": "/static/css/main.06041eb3.chunk.css.map",
+    "static/js/2.913d5f2e.chunk.js.LICENSE.txt": "/static/js/2.913d5f2e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/bg_redcurtain.5f8bfc25.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b7d8361.js",
+    "static/js/runtime-main.6e3d7bdc.js",
     "static/css/2.d00d156c.chunk.css",
-    "static/js/2.4c6170da.chunk.js",
-    "static/css/main.3e1b7420.chunk.css",
+    "static/js/2.913d5f2e.chunk.js",
+    "static/css/main.06041eb3.chunk.css",
     "static/js/main.30c4746e.chunk.js"
   ]
 }
