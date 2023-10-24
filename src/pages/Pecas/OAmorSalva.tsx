@@ -4,14 +4,14 @@ import { Text } from 'components/Text';
 
 export const OAmorSalva: React.FC = () => {
   const images = [
-    '/images/pecas/o-amor-salva/_MG_2728.jpg',
-    '/images/pecas/o-amor-salva/_MG_2681.jpg',
-    '/images/pecas/o-amor-salva/_MG_2702.jpg',
-    '/images/pecas/o-amor-salva/_MG_2709.jpg',
-    '/images/pecas/o-amor-salva/_MG_2720.jpg',
-    '/images/pecas/o-amor-salva/_MG_2796.jpg',
-    '/images/pecas/o-amor-salva/_MG_2797.jpg',
-    '/images/pecas/o-amor-salva/_MG_2843.jpg',
+    '/images/pecas/o-amor-salva/IMG_2728.jpg',
+    '/images/pecas/o-amor-salva/IMG_2681.jpg',
+    '/images/pecas/o-amor-salva/IMG_2702.jpg',
+    '/images/pecas/o-amor-salva/IMG_2709.jpg',
+    '/images/pecas/o-amor-salva/IMG_2720.jpg',
+    '/images/pecas/o-amor-salva/IMG_2796.jpg',
+    '/images/pecas/o-amor-salva/IMG_2797.jpg',
+    '/images/pecas/o-amor-salva/IMG_2843.jpg',
     '/images/pecas/o-amor-salva/15016395_1269017606505786_6570231691692360020_o.jpg',
     '/images/pecas/o-amor-salva/15016429_1269013393172874_366091321150545607_o.jpg',
     '/images/pecas/o-amor-salva/15025298_1268982839842596_5642854730389802196_o.jpg',
